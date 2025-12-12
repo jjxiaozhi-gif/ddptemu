@@ -1,2 +1,0 @@
-# ddptemu
-te list
